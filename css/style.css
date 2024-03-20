@@ -30,7 +30,7 @@ footer {
 }
 
 h1 {
-  font-size: 8rem;
+  font-size: 18rem;
 }
 h2{
   font-size: 4rem;
@@ -82,7 +82,8 @@ h2{
 main {
   background: rgb(174, 115, 240);
   width: 100%;
-  padding: 5.8em;
+  height: 720px;
+  padding: 6em;
   display: flex;
   justify-content: space-between;
   align-items: center;
